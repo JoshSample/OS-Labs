@@ -1,2 +1,2 @@
 # OS-Labs
-This repo contains small programs written for lab assignments in my operating systems class. There's four total: 2 process and 2 thread programs, one for either Windows or Linux operating systems.
+The names of each program signal which operating system they work on. The Windows programs were written and run through Visual Studio, while the Linux programs were run through Linux's command line.
